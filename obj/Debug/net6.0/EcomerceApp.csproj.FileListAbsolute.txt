@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\oop\EcomerceApp\bin\Debug\net6.0\EcomerceApp.exe
+C:\Users\USER\Desktop\oop\EcomerceApp\bin\Debug\net6.0\EcomerceApp.deps.json
+C:\Users\USER\Desktop\oop\EcomerceApp\bin\Debug\net6.0\EcomerceApp.runtimeconfig.json
+C:\Users\USER\Desktop\oop\EcomerceApp\bin\Debug\net6.0\EcomerceApp.dll
+C:\Users\USER\Desktop\oop\EcomerceApp\bin\Debug\net6.0\EcomerceApp.pdb
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\EcomerceApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\EcomerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\EcomerceApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\EcomerceApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\EcomerceApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\EcomerceApp.dll
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\refint\EcomerceApp.dll
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\EcomerceApp.pdb
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\EcomerceApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\oop\EcomerceApp\obj\Debug\net6.0\ref\EcomerceApp.dll
